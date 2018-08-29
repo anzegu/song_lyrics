@@ -1,5 +1,6 @@
-# song_lyrics
-Song lyrics site
+<b>DESCRIPTION</b>
+
+------------------------------------------------
 
 This is an app for song lyrics. Everyone can view lyrics, search them in the search bar or by clicking on a letter which is 
 located at the top of the page.
@@ -13,3 +14,5 @@ which the user can add them. Once the file is uploaded it won't be displayed on 
 (admin recieves a notification).
 
 The admin has an overview of the database on his account. There he can delete users, artists, albums and songs if there are spelling errors.
+
+------------------------------------------------
