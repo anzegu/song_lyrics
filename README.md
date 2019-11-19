@@ -5,7 +5,7 @@
 This is an app for song lyrics. Everyone can view lyrics, search them in the search bar or by clicking on a letter which is 
 located at the top of the page.
 
-Creating an account is possible with email or by logging into facebook or steam. Usershave the option of changing their username and
+Creating an account is possible with email or by logging into facebook or steam. Users have the option of changing their username and
 password.
 
 A user can then add lyrics to a song through the add page. On the page he must select the author, album, genre, type the name
